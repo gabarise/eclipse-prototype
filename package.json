@@ -1,12 +1,13 @@
 {
-  "name": "electron-quick-start",
+  "name": "eclipse-prototype",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Prototype de CBMS",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "private":true,
+  "repository": "https://github.com/gabarise/eclipse-prototype.git",
   "keywords": [
     "Electron",
     "quick",
@@ -14,7 +15,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "gabarise",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.7.8"
